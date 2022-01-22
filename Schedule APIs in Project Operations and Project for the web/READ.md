@@ -12,6 +12,3 @@ This release contains a demo flow v1.0.0.1 for using Project schedule APIs in Pr
 
 Added logic to the flow that adds two new tasks after original subtasks.
 Added logic to the flow that adds two new tasks between tasks 4 and 5 by using Display Sequence.
-Additional information:
-
-https://daytodaydynamics365.com/project-operations-and-project-for-the-web-schedule-api-guide-for-power-automate-users/
