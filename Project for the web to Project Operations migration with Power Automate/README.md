@@ -13,9 +13,9 @@ The solutions contain a flow for migrating projects (Project for the web and Pro
 
 ![CopyProjecttoProjOpsContents](https://user-images.githubusercontent.com/64043240/160362194-61c36965-5e9d-4b59-a5a0-dd59eafe55da.png)
 
-### ProjectforthewebCopyStagingTables_1_0_0_1_managed
-### ProjectforthewebCopyStagingTables_1_0_0_1_unmanaged
-#### v1.0.0.1
+### ProjectforthewebCopyStagingTables_1_0_0_2_managed
+### ProjectforthewebCopyStagingTables_1_0_0_2
+#### v1.0.0.2
 The solutions contain the following:
 - Staging tables to which project related data can me migrated to by using the flow _Copy Project to ProjOps_.
 - A model-driven app for using the staging tables.
@@ -26,5 +26,7 @@ The solutions contain the following:
 
 ![StagingTablesSecRole](https://user-images.githubusercontent.com/64043240/160364551-ec5b5fe9-1a96-4128-848d-45481882d2f4.png)
 
+#### Bug fixes in v1.0.0.2
+- Fixed an issue of the cloud flow failing when no Resource Assignments Stagings are present but the flow is fired off to create Resource Assignments.
 
 The solutions are provided "as is". Use the solutions at your own discretion.
